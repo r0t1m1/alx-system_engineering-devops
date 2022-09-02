@@ -1,1 +1,2 @@
-#!/bin/bash\mfind $PWD -type d -exec chmod 755 {} \
+#!/bin/bash
+find $PWD -type d -exec chmod 755 {} \
